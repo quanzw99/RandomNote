@@ -1,4 +1,4 @@
-# Daily_Coding
+# Daily-Coding
 
 *Just For Fun! Please Enjoy!*
 
